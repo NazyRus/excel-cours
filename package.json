@@ -1,0 +1,23 @@
+{
+  "name": "excel-project",
+  "version": "1.0.0",
+  "description": "Pure JS Excel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazyRus/excel-cours.git"
+  },
+  "keywords": [
+    "js",
+    "excel"
+  ],
+  "author": "Ruslan Nazbiyev <byvear@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazyRus/excel-cours/issues"
+  },
+  "homepage": "https://github.com/NazyRus/excel-cours#readme"
+}
